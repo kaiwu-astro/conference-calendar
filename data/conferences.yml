@@ -516,3 +516,14 @@ conferences:
     registration_display: "?"
     abstract_display: "?"
     comments: ""
+  - id: bwhpc-meeting-2026
+    title: bwHPC Meeting 2026
+    url: https://indico.kit.edu/event/5505/overview
+    location: KIT, Karlsruhe, Germany
+    start_date: 2026-05-21
+    end_date: 2026-05-21
+    registration_deadlines: []
+    abstract_deadlines: []
+    registration_display: "?"
+    abstract_display: "?"
+    comments: ""

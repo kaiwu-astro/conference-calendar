@@ -11,6 +11,7 @@ This file is generated from `data/conferences.yml` by `python3 scripts/build_cal
 | May 4-8 2026 | Hong Kong Convention and Exhibition Centre, Hong Kong SAR, China | [2026 Asia-Pacific Regional IAU Meeting (APRIM 2026)](https://aprim2026.org/) | Feb. 5 2026 | Dec. 5 2025 | IAU travel grant application deadline 2025-12-05 |
 | May 18-22 2026 | New Uzbekistan Univ., Tashkent, Uzbekistan | [14th Silk Road / 2nd Silk Road AREA conference](https://astro-silkroad.eu/conferences/silkroad14) | Mar. 18 2026 | Mar. 18 2026 | abstract submitted with registration |
 | May 18-22 2026 | Masaryk Univ. Brno, Czech Rep. | [IAUS405: Traversing the Galactic Center in Space and Time](https://gc2026.muni.cz/) | Mar. 31 2026 | Dec. 15 2025 |  |
+| May 21 2026 | KIT, Karlsruhe, Germany | [bwHPC Meeting 2026](https://indico.kit.edu/event/5505/overview) | ? | ? |  |
 | June 15-19 2026 | RWTH Aachen University, Germany | [XVI ET Symposium 2026](https://indico.ego-gw.it/event/960/overview) | Early bird: May 1 2026 |  |  |
 | June 24-25 2026 | Darwin Building, UCL, Gower Street, London, WC1E 6BT, UK | [Habitable Worlds Observatory UK Community Workshop](https://sites.google.com/view/hwouk/) | Conference registration: June 1 2026 | Abstract submission: May 11 2026 | fourth UK community workshop |
 | June 29 - July 3 2026 | SwissTech Convention Centre, Lausanne, Switzerland | [EAS2026](https://eas.unige.ch/EAS2026/grants.jsp) | Grant application / abstract: Mar. 3 2026 |  |  |
