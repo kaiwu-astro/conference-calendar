@@ -338,7 +338,6 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: includes all fields of astronomy
-  # Conference Calendar
   - id: aprim-2026
     title: 2026 Asia-Pacific Regional IAU Meeting (APRIM 2026)
     url: https://aprim2026.org/
@@ -446,6 +445,7 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: Registration and abstract submission opened on 2026-01-29
+  # Conference Calendar
   - id: expanding-horizons-2026
     title: "EXPANDING HORIZONS: WHAT ARE THE ASTRONOMICAL CHALLENGES OF THE 2040S"
     url: https://www.eso.org/sci/meetings/2026/ExpH.html
@@ -467,10 +467,16 @@ conferences:
     location: DotCampus, Rome, Italy
     start_date: 2026-07-27
     end_date: 2026-07-31
-    registration_deadlines: []
+    registration_deadlines:
+      - label: Registration opens
+        date: 2026-03-22
+      - label: Registration closes
+        date: 2026-04-30
+      - label: Attendance confirmation (accepted participants)
+        date: 2026-05-23
     abstract_deadlines: []
-    registration_display: To be announced
-    abstract_display: To be announced
+    registration_display: ""
+    abstract_display: N/A
     comments: detailed programme to be published closer to the school date
   - id: minggatu-forum-2026
     title: The First Minggatu Forum on Astronomy Frontier
