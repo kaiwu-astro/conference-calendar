@@ -338,67 +338,6 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: includes all fields of astronomy
-  # Conference Calendar
-  - id: aprim-2026
-    title: 2026 Asia-Pacific Regional IAU Meeting (APRIM 2026)
-    url: https://aprim2026.org/
-    location: Hong Kong Convention and Exhibition Centre, Hong Kong SAR, China
-    start_date: 2026-05-04
-    end_date: 2026-05-08
-    registration_deadlines:
-      - label: Registration
-        date: 2026-02-05
-    abstract_deadlines:
-      - label: Abstract
-        date: 2025-12-05
-    registration_display: ""
-    abstract_display: ""
-    comments: IAU travel grant application deadline 2025-12-05
-  - id: silk-road-14
-    title: 14th Silk Road / 2nd Silk Road AREA conference
-    url: https://astro-silkroad.eu/conferences/silkroad14
-    location: New Uzbekistan Univ., Tashkent, Uzbekistan
-    start_date: 2026-05-18
-    end_date: 2026-05-22
-    registration_deadlines:
-      - label: Registration
-        date: 2026-03-18
-    abstract_deadlines:
-      - label: Abstract
-        date: 2026-03-18
-    registration_display: ""
-    abstract_display: ""
-    comments: abstract submitted with registration
-  - id: iaus-405
-    title: "IAUS405: Traversing the Galactic Center in Space and Time"
-    url: https://gc2026.muni.cz/
-    location: Masaryk Univ. Brno, Czech Rep.
-    start_date: 2026-05-18
-    end_date: 2026-05-22
-    registration_deadlines:
-      - label: Registration
-        date: 2026-03-31
-    abstract_deadlines:
-      - label: Abstract
-        date: 2025-12-15
-    registration_display: ""
-    abstract_display: ""
-    comments: ""
-  - id: et-symposium-2026
-    title: XVI ET Symposium 2026
-    url: https://indico.ego-gw.it/event/960/overview
-    location: RWTH Aachen University, Germany
-    start_date: 2026-06-15
-    end_date: 2026-06-19
-    registration_deadlines:
-      - label: Early bird
-        date: 2026-05-01
-    abstract_deadlines:
-      - label: Abstract submission
-        date: 2026-04-12
-    registration_display: ""
-    abstract_display: ""
-    comments: ""
   - id: lrd2026
     title: LRD2026 Workshop
     url: https://sites.google.com/uniroma1.it/lrdworkshop2026/
@@ -519,23 +458,6 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: "travel support deadline: 2026-04-24"
-  - id: multiple-planet-systems-2026
-    title: Multiple Planet Systems
-    url: https://exo-mps.eu
-    location: Sofia University "St. Kliment Ohridski", Sofia, Bulgaria
-    start_date: 2026-08-31
-    end_date: 2026-09-04
-    registration_deadlines:
-      - label: General participation
-        date: 2026-07-15
-    abstract_deadlines:
-      - label: Contributed talks (extended)
-        date: 2026-05-31
-      - label: Poster presentations
-        date: 2026-06-30
-    registration_display: ""
-    abstract_display: ""
-    comments: ""
   - id: cologne-bonn-symposium-2026
     title: Cologne-Bonn Symposium on the habitats of massive stars across cosmic time
     url: https://sfb1601.astro.uni-koeln.de/symposium2026/
@@ -553,6 +475,84 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: hybrid participation available
+  - id: aprim-2026
+    title: 2026 Asia-Pacific Regional IAU Meeting (APRIM 2026)
+    url: https://aprim2026.org/
+    location: Hong Kong Convention and Exhibition Centre, Hong Kong SAR, China
+    start_date: 2026-05-04
+    end_date: 2026-05-08
+    registration_deadlines:
+      - label: Registration
+        date: 2026-02-05
+    abstract_deadlines:
+      - label: Abstract
+        date: 2025-12-05
+    registration_display: ""
+    abstract_display: ""
+    comments: IAU travel grant application deadline 2025-12-05
+  - id: silk-road-14
+    title: 14th Silk Road / 2nd Silk Road AREA conference
+    url: https://astro-silkroad.eu/conferences/silkroad14
+    location: New Uzbekistan Univ., Tashkent, Uzbekistan
+    start_date: 2026-05-18
+    end_date: 2026-05-22
+    registration_deadlines:
+      - label: Registration
+        date: 2026-03-18
+    abstract_deadlines:
+      - label: Abstract
+        date: 2026-03-18
+    registration_display: ""
+    abstract_display: ""
+    comments: abstract submitted with registration
+  - id: iaus-405
+    title: "IAUS405: Traversing the Galactic Center in Space and Time"
+    url: https://gc2026.muni.cz/
+    location: Masaryk Univ. Brno, Czech Rep.
+    start_date: 2026-05-18
+    end_date: 2026-05-22
+    registration_deadlines:
+      - label: Registration
+        date: 2026-03-31
+    abstract_deadlines:
+      - label: Abstract
+        date: 2025-12-15
+    registration_display: ""
+    abstract_display: ""
+    comments: ""
+  - id: et-symposium-2026
+    title: XVI ET Symposium 2026
+    url: https://indico.ego-gw.it/event/960/overview
+    location: RWTH Aachen University, Germany
+    start_date: 2026-06-15
+    end_date: 2026-06-19
+    registration_deadlines:
+      - label: Early bird
+        date: 2026-05-01
+    abstract_deadlines:
+      - label: Abstract submission
+        date: 2026-04-12
+    registration_display: ""
+    abstract_display: ""
+    comments: ""
+  # Conference Calendar
+  - id: multiple-planet-systems-2026
+    title: Multiple Planet Systems
+    url: https://exo-mps.eu
+    location: Sofia University "St. Kliment Ohridski", Sofia, Bulgaria
+    start_date: 2026-08-31
+    end_date: 2026-09-04
+    registration_deadlines:
+      - label: General participation
+        date: 2026-07-15
+    abstract_deadlines:
+      - label: Contributed talks (extended)
+        date: 2026-05-31
+      - label: Poster presentations
+        date: 2026-06-30
+    registration_display: ""
+    abstract_display: ""
+    comments: ""
   - id: bridging-it-cost-meeting-2026
     title: "Bridging It: Connecting Observations and Models of (Exo)planets and their Formation"
     url: https://sites.google.com/view/bridging-it-cost-meeting/home
