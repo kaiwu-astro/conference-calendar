@@ -766,3 +766,14 @@ conferences:
     registration_display: Registration opens before January 2027
     abstract_display: Abstract deadline before May 2027
     comments: ""
+  - id: break-game-set-2027
+    title: "Break-Game-Set: Settling the long-standing debate on the disk evolution mechanisms and their impact on planet formation"
+    url: https://www.sexten-cfa.eu/event/break-game-set-settling-the-long-standing-debate-on-the-disk-evolution-mechanisms-and-their-impact-on-planet-formation/
+    location: "Haus Sexten, Sexten (Bozen), Italy"
+    start_date: 2027-02-08
+    end_date: 2027-02-12
+    registration_deadlines: []
+    abstract_deadlines: []
+    registration_display: ""
+    abstract_display: "Deadline: September 2026"
+    comments: ""
