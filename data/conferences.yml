@@ -520,7 +520,6 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: hybrid participation available
-  # Conference Calendar
   - id: multiple-planet-systems-2026
     title: Multiple Planet Systems
     url: https://exo-mps.eu
@@ -596,6 +595,7 @@ conferences:
     registration_display: ""
     abstract_display: ""
     comments: Free of charge; open to researchers from all scientific fields
+  # Conference Calendar
   - id: bh-nepal-2026
     title: "8th Nepal Conference: Many faces of stellar-mass black holes"
     url: https://sites.google.com/view/bh-nepal-2026/home
